@@ -217,6 +217,7 @@
     23. Задати відстань між текстом та картинкою  –hspace=20 vspace=20:
 <img src="Картинка_1.gif"  title=веселий_комп’ютер  height=160  width=180  border="2"   align="left" hspace=20 vspace=20>
 
+![image](https://user-images.githubusercontent.com/113579489/210509256-df7e12e1-9d46-422e-b24a-88e6d49c6cb1.png)
 
 
 
