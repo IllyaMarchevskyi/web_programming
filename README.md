@@ -12,8 +12,5 @@
 7. [Web programming 7](Web_programming_4.md)
 8. [Web programming 8](Web_programming_4.md)
 9. [Web programming 9](Web_programming_4.md)
-10. [Web programming 10](Web_programming_4.md)
-11. [Web programming 11](Web_programming_4.md)
-12. [Web programming 12](Web_programming_4.md)
 
 
