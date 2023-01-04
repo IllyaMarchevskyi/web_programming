@@ -30,17 +30,24 @@
     7. Встановити  на сторінку  заголовок «Створення таблиць». 
 Встановити для заголовку: шрифт – Arial Black, розмір – 20, колір шрифту – синій, накреслення – курсив, вирівнювання – по  центру, інтервал  між символами.
 
+![Screenshot from 2023-01-04 09-18-50](https://user-images.githubusercontent.com/113579489/210503483-ebad5981-b864-473e-88e2-414bda3a08a0.png)
+
     8. Додати рухомий рядок з текстом: Я, прізвище та ім’я, вивчаю створення таблиць в HTML
     9. Вставити на сторінку картинку: 
 Встановити для картинки: розмір –100х100, вирівнювання – праворуч, спливаючий підпис, рамку.
 
+
     10. Створити таблиці за зразками:
-Таблиця 1
-![Screenshot from 2023-01-04 09-09-18](https://user-images.githubusercontent.com/113579489/210502828-52ddc332-1bd1-4886-a2de-d7a95e53eca5.png) ![Screenshot from 2023-01-04 09-09-41](https://user-images.githubusercontent.com/113579489/210502914-8bb0ca12-da94-46fa-8662-1eb085765751.png)
+* Таблиця 1
+
+![Screenshot from 2023-01-04 09-09-18](https://user-images.githubusercontent.com/113579489/210502828-52ddc332-1bd1-4886-a2de-d7a95e53eca5.png) 
+
+![Screenshot from 2023-01-04 09-09-41](https://user-images.githubusercontent.com/113579489/210502914-8bb0ca12-da94-46fa-8662-1eb085765751.png)
 
 
-Таблиця 2
+* Таблиця 2
 ![Screenshot from 2023-01-04 09-09-30](https://user-images.githubusercontent.com/113579489/210502846-a062afcb-a942-4511-b80c-f5f09a99a3cf.png)
+![Screenshot from 2023-01-04 09-10-08](https://user-images.githubusercontent.com/113579489/210503090-3eefc2e1-473c-4eb1-8fce-39bb00d4e614.png)
 
 
 Записати в конспект:
@@ -48,47 +55,33 @@
 клітинок об’єднали по вертикалі
     • тег  <center> …</center>– вирівнювання тексту в клітинках по центру.
 
-Таблиця 3
-1
-3
-2
+* Таблиця 3
 
-4
-5
+![Screenshot from 2023-01-04 09-10-42](https://user-images.githubusercontent.com/113579489/210503221-4fb51a36-dafc-4995-b204-f6906e37bcf6.png)
 
-    11. Змінити розміри Таблиці 3на  width="50" height="35". Переглянути як змінилася таблиця.
 
-Таблиця 4
-1
-2
-3
-4
-5
+11. Змінити розміри Таблиці 3на  width="50" height="35". Переглянути як змінилася таблиця.
+
+* Таблиця 4
+
+![Screenshot from 2023-01-04 09-10-50](https://user-images.githubusercontent.com/113579489/210503232-4ce12839-7fea-47ff-8c8d-9b774c6f8636.png)
+
+![Screenshot from 2023-01-04 09-10-21](https://user-images.githubusercontent.com/113579489/210503292-b72e0973-f062-4e4d-803c-643be915f707.png)
 
 
 
 Записати в конспект:
-    • атрибут colspan=2– вказує скільки
+    • атрибут colspan=2 вказує скільки
 клітинок об’єднали по горизонталі
 
 
-
-
-
-
-
-
-
-
-
-
-
+![Screenshot from 2023-01-04 09-26-18](https://user-images.githubusercontent.com/113579489/210504526-c8f52193-8c76-421e-97fe-3c63371bcd8d.png)
 
 
 Вихідний код :
 <html>
 <head>
-   <title>Кос</title>
+   <title>Марчевський</title>
    <style>
    tx{
      font-family: Arial Black;
@@ -103,8 +96,7 @@
 
 <body bgcolor = "#8BFFAE">
   <tx><h1>Створення таблиць</h1></tx>
-  <marquee style="background-color: #FFAE47; font-size: 30px" scrollamount="12">Я, Кос Лідія вивчаю створення таблиць в HTML</marquee>
-  <img src="http://pa1.narvii.com/6911/07ca4664a5f2c90715655c090168dcfc7eebfc00r1-320-320_00.gif"  alt = "котик^-^" width="100" height = "100" align = "right" border = "5">
+  <marquee style="background-color: #FFAE47; font-size: 30px" scrollamount="12">Я, Марчевський  Ілля вивчаю створення таблиць в HTML</marquee>
   <I><B>Таблиця1</I></B>
 <table width="200" border="1" >
 <tr>
