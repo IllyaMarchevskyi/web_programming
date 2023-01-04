@@ -36,15 +36,11 @@
 
     10. Створити таблиці за зразками:
 Таблиця 1
+![Screenshot from 2023-01-04 09-09-18](https://user-images.githubusercontent.com/113579489/210502828-52ddc332-1bd1-4886-a2de-d7a95e53eca5.png) ![Screenshot from 2023-01-04 09-09-41](https://user-images.githubusercontent.com/113579489/210502914-8bb0ca12-da94-46fa-8662-1eb085765751.png)
 
 
 Таблиця 2
-1
-2
-
-3
-4
-5
+![Screenshot from 2023-01-04 09-09-30](https://user-images.githubusercontent.com/113579489/210502846-a062afcb-a942-4511-b80c-f5f09a99a3cf.png)
 
 
 Записати в конспект:
